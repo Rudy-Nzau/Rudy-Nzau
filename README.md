@@ -2,9 +2,6 @@
 
 - 🖥 I’m currently working on market-place customers segmentation
 - 🌱 I’m currently learning  Resilient Distributed Dataset
-- 👯 I’m looking to collaborate on AI applications in 
-- ⚡ Fun fact: I am an elephant 🐘  and a leopard 🐆 at the same time
-
 _______
 
 ### 🤖 Data Science and Machine Learning
