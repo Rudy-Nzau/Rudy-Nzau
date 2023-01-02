@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-[![MasterHead](https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif)](https://storage.googleapis.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-
-
 - 🖥 I’m currently working on market-place customers segmentation
 - 🌱 I’m currently learning  Resilient Distributed Dataset
 - 👯 I’m looking to collaborate on AI applications in 
