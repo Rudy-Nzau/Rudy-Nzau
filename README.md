@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🖥 I’m currently working on market-place customers segmentation
+- 🖥 I’m currently working on Piplines with Airflow kubernetes HDFS
 - 🌱 I’m currently learning  Resilient Distributed Dataset
 _______
 
@@ -36,5 +36,5 @@ _______
 
 ## 🏽‍💻 where I'm currently working on
 
-- [Freelance] currently working at [STAFFME]
+- [Freelance] currently working at STAFFME
 
