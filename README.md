@@ -1,40 +1,60 @@
-### Hi there 👋
+# Rudy Nzau — Data Scientist & AI Engineer
 
-- 🖥 I’m currently working on Piplines with Airflow kubernetes HDFS
-- 🌱 I’m currently learning  Resilient Distributed Dataset
-_______
+> Building production-grade LLM systems at the intersection of data, product, and regulated environments.
 
-### 🤖 Data Science and Machine Learning
-![](https://img.shields.io/badge/DEV-Python-3776AB?style=for-the-badge&logo=python)
+📍 Paris, France &nbsp;·&nbsp; 🌍 Open to international opportunities (UK, Northern Europe, EMEA)
 
-![](https://img.shields.io/badge/DEV-Pandas-150458?style=for-the-badge&logo=Pandas)
-![](https://img.shields.io/badge/DEV-Scikit_learn-F7941E?style=for-the-badge&logo=scikit-learn)
-![](https://img.shields.io/badge/DEV-Keras-D00000?style=for-the-badge&logo=Keras)
-![](https://img.shields.io/badge/DEV-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
-![](https://img.shields.io/badge/DEV-Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark)
-![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
+---
 
-![](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=for-the-badge&logo=Jupyter)
+## 🚀 Currently building
 
+**[esg-rag-chatbot](https://github.com/Rudy-Nzau/esg-rag-chatbot)** — Production-grade RAG pipeline for ESG document querying  
+`LangChain` `FastAPI` `SentenceTransformers` `ChromaDB` `Docker` `GCP`
 
-### ⚙️ General Purpose Tools
-![](https://img.shields.io/badge/VERSIONING-GoogleColab-F05032?style=for-the-badge&logo=Colab)
-![](https://img.shields.io/badge/VERSIONING-GitHub-181717?style=for-the-badge&logo=GitHub)
-![](https://img.shields.io/badge/DEVOPS-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS)
+---
 
+## 🛠️ Tech Stack
 
+**AI / LLM Engineering**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-_______
+**Data Science & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## 💬 Connect with Me
+**MLOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-[![](https://img.shields.io/badge/FIND_ME_ON-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/rudy-nzau-3167b8b3/)
+---
 
-[![](https://img.shields.io/badge/DROP_A_LINE_AT-My_email-3ABFE6?style=for-the-badge&logo=Minutemailer)](rudy.nzau@gmail.com)
+## 💼 Experience highlights
 
-_______
+- **Data Scientist @ Altares Dun&Bradstreet** — Credit scoring models maintenance & evolution on financial data
+- **Analytics Engineer @ Altares Dun&Bradstreet** — ESG data pipelines, ISO20022 implementation, automation & data visualisation
+- **Data Science Consultant @ StaffMe** — ManoMano, Stelliant Group
 
-## 🏽‍💻 where I'm currently working on
+🎓 **Master Data Science — CentraleSupélec** (Paris-Saclay)
 
-- [Freelance] currently working at STAFFME
+---
 
+## 🌱 Current focus
+
+- RAG pipelines & LLM systems in production
+- LangChain · SentenceTransformers · Vector stores · LLMOps
+- GCP Cloud Run deployment
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudy_Nzau-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rudy-nzau-3167b8b3/)
+[![Email](https://img.shields.io/badge/Email-rudy.nzau@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudy.nzau@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rudy--Nzau-181717?style=flat-square&logo=github)](https://github.com/Rudy-Nzau)
