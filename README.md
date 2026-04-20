@@ -2,7 +2,7 @@
 
 > Building production-grade LLM systems at the intersection of data, product, and regulated environments.
 
-📍 Paris, France &nbsp;·&nbsp; 🌍 Open to international opportunities (UK, Northern Europe, EMEA)
+📍 Paris, France &nbsp;·&nbsp;
 
 ---
 
