@@ -38,7 +38,7 @@
 ## 💼 Experience highlights
 
 - **Data Scientist @ Altares Dun&Bradstreet** — Credit scoring models maintenance & evolution on financial data
-- **Analytics Engineer @ Altares Dun&Bradstreet** — ESG data pipelines, ISO20022 implementation, automation & data visualisation
+- **Analytics Engineer @ Altares Dun&Bradstreet** — ISO20022 implementation, automation & data visualisation
 - **Data Science Consultant @ StaffMe** — ManoMano, Stelliant Group
 
 🎓 **Master Data Science — CentraleSupélec** (Paris-Saclay)
